@@ -4,7 +4,3 @@
 3. Colleges can upload tender info, and track the entire process just through this portal on their dashboard.
 4. Companies can easily apply for tender in single step process by filling a form.
 5. After the given time duration colleges will get the best option and a sorted list of companies according to price, review, period of work and distance from institute and also notified by an auto generated e-mail.
-
-
-
-
